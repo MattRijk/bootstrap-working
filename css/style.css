@@ -7,13 +7,19 @@
     color: #196bbd;
 }
 
+#middle-header.container {
+    margin-bottom: 10px;
+}
+
 #title-header {
     background-color: #ffffff;
-    border: 1px solid blue;
-    padding: 40px 20px;
-    /*margin: 10px;*/
+    /*border: 1px solid blue;*/
+    padding: 10px 20px;
+    margin: 2px 0px;
     
 }
+
+
 
 #full-nav.navbar.navbar-inverse {
     background-color: #ffffff;
@@ -51,4 +57,9 @@
 .nav.navbar {
     margin: 0px;
     padding: 0px;
+}
+
+#logo-image {
+    width:180px;
+    height:50px;
 }
